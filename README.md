@@ -1,3 +1,4 @@
+<img src="https://i.imgur.com/fzkdSx1.jpg"><br>
 <!-- CONTACT Section Starts -->
 ## __CONTACT__
 <!-- Add your details -->

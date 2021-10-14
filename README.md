@@ -35,6 +35,16 @@ Assistant Manager <br>
 January 2017 - March 2017: 3 months <br>
 Project Coordinator<br>
 July 2015 - December 2016: 1 year 6 months <br>
+#### __Self Employed__
+3D House Modeler <br>
+July 2014 - June 2015: 1 year <br>
+[[Front View Day]](https://i.imgur.com/rrGxhJu.jpg)
+[[Front View Night]](https://i.imgur.com/D2AWccp.jpg)
+[[Back View Day]](https://i.imgur.com/E29CJRK.jpg)
+[[Back View Night]](https://i.imgur.com/opVWjGh.jpg)
+[[Diagonal Front Day]](https://i.imgur.com/FO6oNb4.jpg)
+[[Diagonal Back Night]](https://i.imgur.com/zgYLtsE.jpg)
+[[Diagonal Back Night]](https://i.imgur.com/QmKUHql.jpg)
 #### __Citco Fund Services (S) P/L__
 Operations Analyst <br>
 March 2014 - August 2014: 6 months <br>
@@ -50,6 +60,7 @@ September 2013 - March 2014: 7 months <br>
 #### Boston Consulting Group Digital Academy <br> 
 Business and Data Analytics <br> 
 February 2021 - August 2021 <br> 
+[Certificate of Merit](https://www.credly.com/earner/earned/badge/f41769e6-b874-41a9-9f85-f83ff940812d)
 #### University of London <br> 
 Bachelor of Science (Honours) <br> 
 Accounting & Finance <br>
@@ -72,11 +83,11 @@ August 2010 - August 2013 <br>
 ## __CERTIFICATION__
 <!-- Add your details -->
 __Linkedin Learning__  <br>
-[Machine Learning with ScikitLearn]()  <br>
-[Artificial Intelligence Foundations: Machine Learning]()  <br>
-[Marketing Foundations: Consumer Behaviour]()  <br>
-[Pandas Essential Training]()  <br>
-[Writing a Marketing Plan]()  <br>
-[Design Thinking: Understanding the Process]()  <br>
-[IoT Foundations: Fundamentals]()  <br>
+[Machine Learning with ScikitLearn](https://github.com/nguoren/Portfolio/blob/main/Certificates/CertificateOfCompletion_Machine%20Learning%20with%20ScikitLearn.pdf)  <br>
+[Artificial Intelligence Foundations: Machine Learning](https://github.com/nguoren/Portfolio/blob/main/Certificates/CertificateOfCompletion_Artificial%20Intelligence%20Foundations%20Machine%20Learning.pdf)  <br>
+[Marketing Foundations: Consumer Behaviour](https://github.com/nguoren/Portfolio/blob/main/Certificates/CertificateOfCompletion_Marketing%20Foundations%20Consumer%20Behavior.pdf)  <br>
+[Pandas Essential Training](https://github.com/nguoren/Portfolio/blob/main/Certificates/CertificateOfCompletion_pandas%20Essential%20Training.pdf)  <br>
+[Writing a Marketing Plan](https://github.com/nguoren/Portfolio/blob/main/Certificates/CertificateOfCompletion_Writing%20a%20Marketing%20Plan.pdf)  <br>
+[Design Thinking: Understanding the Process](https://github.com/nguoren/Portfolio/blob/main/Certificates/CertificateOfCompletion_Design%20Thinking%20Understanding%20the%20Process.pdf)  <br>
+[IoT Foundations: Fundamentals](https://github.com/nguoren/Portfolio/blob/main/Certificates/CertificateOfCompletion_IoT%20Foundations%20Fundamentals.pdf)  <br>
 <!-- CERTIFICATION Section Ends -->

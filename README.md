@@ -15,7 +15,7 @@
 <!-- Add your details -->
 I am __Ng Guoren__, an aspiring techie. <br>
 Programming Skills: HTML, CSS, JavaScript, Python, SQL, PowerBI <br>
-[HackerRank Progress](https://www.hackerrank.com/ng_guoren) <br>
+[*HackerRank Progress*](https://www.hackerrank.com/ng_guoren) <br>
 <!-- ABOUT Section Ends -->
 
 
@@ -39,13 +39,13 @@ July 2015 - December 2016: 1 year 6 months <br>
 #### __Self Employed__
 3D House Modeler <br>
 July 2014 - June 2015: 1 year <br>
-[[Front View Day]](https://i.imgur.com/rrGxhJu.jpg)
-[[Front View Night]](https://i.imgur.com/D2AWccp.jpg)
-[[Back View Day]](https://i.imgur.com/E29CJRK.jpg)
-[[Back View Night]](https://i.imgur.com/opVWjGh.jpg)
-[[Diagonal Front Day]](https://i.imgur.com/FO6oNb4.jpg)
-[[Diagonal Back Night]](https://i.imgur.com/zgYLtsE.jpg)
-[[Diagonal Back Night]](https://i.imgur.com/QmKUHql.jpg)
+[[*Front View Day*]](https://i.imgur.com/rrGxhJu.jpg)
+[[*Front View Night*]](https://i.imgur.com/D2AWccp.jpg)
+[[*Back View Day*]](https://i.imgur.com/E29CJRK.jpg)
+[[*Back View Night*]](https://i.imgur.com/opVWjGh.jpg)
+[[*Diagonal Front Day*]](https://i.imgur.com/FO6oNb4.jpg)
+[[*Diagonal Back Night*]](https://i.imgur.com/zgYLtsE.jpg)
+[[*Diagonal Back Night*]](https://i.imgur.com/QmKUHql.jpg)
 #### __Citco Fund Services (S) P/L__
 Operations Analyst <br>
 March 2014 - August 2014: 6 months <br>
@@ -58,10 +58,10 @@ September 2013 - March 2014: 7 months <br>
 <!-- EDUCATION Section Starts -->
 ## __EDUCATION__
 <!-- Add your details -->
-#### Boston Consulting Group Digital Academy <br> 
+#### DigitalBCG Academy <br> 
 Business and Data Analytics <br> 
 February 2021 - August 2021 <br> 
-[Certificate of Merit](https://www.credly.com/earner/earned/badge/f41769e6-b874-41a9-9f85-f83ff940812d)
+[*Certificate of Merit*](https://www.credly.com/earner/earned/badge/f41769e6-b874-41a9-9f85-f83ff940812d)
 #### University of London <br> 
 Bachelor of Science (Honours) <br> 
 Accounting & Finance <br>
@@ -72,10 +72,10 @@ August 2010 - August 2013 <br>
 <!-- PROJECTS Section Starts -->
 ## PROJECTS
 <!-- Add your details -->
-#### __BCG Digital Academy RISE Projects__
+#### __DigitalBCG Academy Projects__
 - [Mini Project 1- PowerBI Data Visualisation](https://github.com/nguoren/PowerBI-Mini-Project/blob/main/Group%201_Mini_Project_FINAL.pdf) <br>
 - [Mini Project 2- Statistical Analysis using python](https://github.com/nguoren/Statistical-Analysis-Mini-Project/blob/main/Mini_project_2%20Team%201.ipynb) <br>
-  1. __Achievement__: [BCG RISE TOP 2 Hypothesis Testing Project](https://www.credly.com/badges/ab1a0f88-b4a7-4eea-823c-15f6d48b4f19)
+  1. __*Achievement*__: [BCG RISE TOP 2 Hypothesis Testing Project](https://www.credly.com/badges/ab1a0f88-b4a7-4eea-823c-15f6d48b4f19)
 - [Mini Project 3- Machine Learning: Predicting Churn](https://github.com/nguoren/Machine-Learning-Mini-Project/blob/main/Mini_project_3_Ng%20Guoren.ipynb) <br>
 <!-- PROJECTS Section Ends -->
 

@@ -58,6 +58,10 @@ September 2013 - March 2014: 7 months <br>
 <!-- EDUCATION Section Starts -->
 ## __EDUCATION__
 <!-- Add your details -->
+#### DataCamp <br> 
+Data Scientist with Python <br> 
+October 2021 - Present <br>
+
 #### DigitalBCG Academy <br> 
 Business and Data Analytics <br> 
 February 2021 - August 2021 <br> 

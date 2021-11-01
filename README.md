@@ -77,6 +77,8 @@ August 2010 - August 2013 <br>
 <!-- PROJECTS Section Starts -->
 ## PROJECTS
 <!-- Add your details -->
+#### __DataCamp Projects__
+- [Python Project - Netflix](https://github.com/nguoren/DataCamp-Netflix-Project/blob/main/DataCamp%20-%20Netflix%20Project.ipynb) <br>
 #### __DigitalBCG Academy Projects__
 - [Mini Project 1- PowerBI Data Visualisation](https://github.com/nguoren/PowerBI-Mini-Project/blob/main/Group%201_Mini_Project_FINAL.pdf) <br>
 - [Mini Project 2- Statistical Analysis using python](https://github.com/nguoren/Statistical-Analysis-Mini-Project/blob/main/Mini_project_2%20Team%201.ipynb) <br>

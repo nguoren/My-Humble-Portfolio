@@ -14,7 +14,7 @@
 ![1623305477738-min](https://i.imgur.com/N1yXgfE.jpg) <br>
 <!-- Add your details -->
 I am __Ng Guoren__, an aspiring techie. <br>
-Programming Skills: HTML, CSS, JavaScript, Python, SQL, PowerBI <br>
+Programming Skills: Python, SQL, PowerBI <br>
 [*HackerRank Progress*](https://www.hackerrank.com/ng_guoren) <br>
 <!-- ABOUT Section Ends -->
 
@@ -61,6 +61,7 @@ September 2013 - March 2014: 7 months <br>
 #### DataCamp <br> 
 Data Scientist with Python <br> 
 October 2021 - Present <br>
+[*Data Manipulation with pandas*](https://github.com/nguoren/Portfolio/blob/main/Certificates/DataCamp%20Cert%20-%20Data%20Manipulation%20with%20pandas.pdf)<br>
 [*Intermediate Python*](https://github.com/nguoren/Portfolio/blob/main/Certificates/DataCamp%20Cert%20-%20Intermediate%20Python.pdf)<br>
 [*Introduction to Python*](https://github.com/nguoren/Portfolio/blob/main/Certificates/DataCamp%20Cert%20-%20Introduction%20to%20Python.pdf)
 #### DigitalBCG Academy <br> 

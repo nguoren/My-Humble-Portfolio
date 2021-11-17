@@ -60,9 +60,12 @@ September 2013 - March 2014: 7 months <br>
 #### DataCamp <br> 
 Data Scientist with Python <br> 
 October 2021 - Present <br>
-[*Data Manipulation with pandas*](https://github.com/nguoren/Portfolio/blob/main/Certificates/DataCamp%20Cert%20-%20Data%20Manipulation%20with%20pandas.pdf)<br>
-[*Intermediate Python*](https://github.com/nguoren/Portfolio/blob/main/Certificates/DataCamp%20Cert%20-%20Intermediate%20Python.pdf)<br>
 [*Introduction to Python*](https://github.com/nguoren/Portfolio/blob/main/Certificates/DataCamp%20Cert%20-%20Introduction%20to%20Python.pdf)
+[*Intermediate Python*](https://github.com/nguoren/Portfolio/blob/main/Certificates/DataCamp%20Cert%20-%20Intermediate%20Python.pdf)<br>
+[*Data Manipulation with pandas*](https://github.com/nguoren/Portfolio/blob/main/Certificates/DataCamp%20Cert%20-%20Data%20Manipulation%20with%20pandas.pdf)<br>
+[*Joining Data with pandas*](https://github.com/nguoren/My-Humble-Portfolio/blob/main/Certificates/DataCamp%20Cert%20-%20Joining%20Data%20with%20pandas.pdf)<br>
+
+
 #### DigitalBCG Academy <br> 
 Business and Data Analytics <br> 
 February 2021 - August 2021 <br> 

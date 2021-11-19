@@ -80,7 +80,7 @@ August 2010 - August 2013 <br>
 <!-- Add your details -->
 #### __DataCamp Projects__
 - [Python Project - Netflix](https://github.com/nguoren/DataCamp-Netflix-Project/blob/main/DataCamp%20-%20Netflix%20Project.ipynb) <br>
-- [Python Project - Google Play Store]https://github.com/nguoren/DataCamp-Google-Play-Store-Python-Project/blob/main/DataCamp%20-%20Google%20Play%20Project.ipynb
+- [Python Project - Google Play Store](https://github.com/nguoren/DataCamp-Google-Play-Store-Python-Project/blob/main/DataCamp%20-%20Google%20Play%20Project.ipynb) <br>
 #### __Data Analytics Projects__
 - [Fantasy Premier League](https://github.com/nguoren/Fantasy-Premier-League/blob/main/FPL%20Analysis%20as%20of%20GW%2011.ipynb) <br>
 #### __DigitalBCG Academy Projects__

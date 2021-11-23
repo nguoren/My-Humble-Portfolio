@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/HvGH9Pk.jpg"><br>
 <!-- CONTACT Section Starts -->
-## __CONTACT__
+# __CONTACT__
 <!-- Add your details -->
 📧: ng_guoren@hotmail.com
 &nbsp;&nbsp; 📱: (65) 9699 6104
@@ -9,7 +9,7 @@
 
 
 <!-- ABOUT Section Starts -->
-## __ABOUT ME__
+# __ABOUT ME__
 <!-- Add link to your picture -->
 ![1623305477738-min](https://i.imgur.com/N1yXgfE.jpg) <br>
 <!-- Add your details -->
@@ -19,7 +19,7 @@ Programming Skills: Python, SQL, PowerBI <br>
 
 
 <!-- EXPERIENCE Section Starts -->
-## __WORK EXPERIENCE__
+# __WORK EXPERIENCE__
 <!-- Add your details -->
 #### __Self Employed__
 Copywriter <br>
@@ -55,7 +55,7 @@ September 2013 - March 2014: 7 months <br>
 
 
 <!-- EDUCATION Section Starts -->
-## __EDUCATION__
+# __EDUCATION__
 <!-- Add your details -->
 #### DataCamp <br> 
 Data Scientist with Python <br> 
@@ -76,14 +76,14 @@ August 2010 - August 2013 <br>
 
 
 <!-- PROJECTS Section Starts -->
-## PROJECTS
+# __PROJECTS__
 <!-- Add your details -->
-#### __DataCamp Projects__
+#### DataCamp Projects
 - [Python Project - Netflix](https://github.com/nguoren/DataCamp-Netflix-Project/blob/main/DataCamp%20-%20Netflix%20Project.ipynb) <br>
 - [Python Project - Google Play Store](https://github.com/nguoren/DataCamp-Google-Play-Store-Python-Project/blob/main/DataCamp%20-%20Google%20Play%20Project.ipynb) <br>
-#### __Data Analytics Projects__
+#### Data Analytics Projects
 - [Fantasy Premier League](https://github.com/nguoren/Fantasy-Premier-League/blob/main/FPL%20Analysis%20as%20of%20GW%2011.ipynb) <br>
-#### __DigitalBCG Academy Projects__
+#### DigitalBCG Academy Projects
 - [Mini Project 1 - PowerBI Data Visualisation](https://github.com/nguoren/PowerBI-Mini-Project/blob/main/Group%201_Mini_Project_FINAL.pdf) <br>
 - [Mini Project 2 - Statistical Analysis using python](https://github.com/nguoren/Statistical-Analysis-Mini-Project/blob/main/Mini_project_2%20Team%201.ipynb) <br>
   1. __*Achievement*__: [BCG RISE TOP 2 Hypothesis Testing Project](https://www.credly.com/badges/ab1a0f88-b4a7-4eea-823c-15f6d48b4f19)
@@ -92,9 +92,9 @@ August 2010 - August 2013 <br>
 
 
 <!-- CERTIFICATION Section Starts -->
-## __CERTIFICATION__
+# __CERTIFICATION__
 <!-- Add your details -->
-__Linkedin Learning__  <br>
+#### __Linkedin Learning__  <br>
 [Machine Learning with ScikitLearn](https://github.com/nguoren/Portfolio/blob/main/Certificates/CertificateOfCompletion_Machine%20Learning%20with%20ScikitLearn.pdf)  <br>
 [Artificial Intelligence Foundations: Machine Learning](https://github.com/nguoren/Portfolio/blob/main/Certificates/CertificateOfCompletion_Artificial%20Intelligence%20Foundations%20Machine%20Learning.pdf)  <br>
 [Marketing Foundations: Consumer Behaviour](https://github.com/nguoren/Portfolio/blob/main/Certificates/CertificateOfCompletion_Marketing%20Foundations%20Consumer%20Behavior.pdf)  <br>

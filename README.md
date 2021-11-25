@@ -82,6 +82,7 @@ August 2010 - August 2013 <br>
 - [Personal - Fantasy Premier League](https://github.com/nguoren/Fantasy-Premier-League/blob/main/FPL%20Analysis%20as%20of%20GW%2011.ipynb) <br>
 - [DataCamp - Python Project - Netflix](https://github.com/nguoren/DataCamp-Netflix-Project/blob/main/DataCamp%20-%20Netflix%20Project.ipynb) <br>
 - [DataCamp - Python Project - Google Play Store](https://github.com/nguoren/DataCamp-Google-Play-Store-Python-Project/blob/main/DataCamp%20-%20Google%20Play%20Project.ipynb) <br>
+- [DataCamp - Python Project - Scala Programming Language](https://github.com/nguoren/DataCamp-Scala-Python-Project/blob/main/DataCamp%20-%20Scala.ipynb) <br>
 #### Machine Learning
 - [DigitalBCG Academy - Mini Project 3 - Machine Learning: Predicting Churn - 30th July 2021 Version](https://github.com/nguoren/Machine-Learning-Mini-Project/blob/main/Mini_project_3_Ng%20Guoren.ipynb) <br>
 #### PowerBI

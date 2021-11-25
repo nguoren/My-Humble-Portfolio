@@ -87,7 +87,7 @@ August 2010 - August 2013 <br>
 #### PowerBI
 - [DigitalBCG Academy - Mini Project 1 - PowerBI Data Visualisation](https://github.com/nguoren/PowerBI-Mini-Project/blob/main/Group%201_Mini_Project_FINAL.pdf) <br>
 #### Statistic
-- [DigitalBCG Academy - Mini Project 2 - Statistical Analysis using python](https://github.com/nguoren/Statistical-Analysis-Mini-Project/blob/main/Mini_project_2%20Team%201.ipynb) <br>
+- [DigitalBCG Academy - Mini Project 2 - Statistical Analysis using Python](https://github.com/nguoren/Statistical-Analysis-Mini-Project/blob/main/Mini_project_2%20Team%201.ipynb) <br>
   1. __*Achievement*__: [BCG RISE TOP 2 Hypothesis Testing Project](https://www.credly.com/badges/ab1a0f88-b4a7-4eea-823c-15f6d48b4f19)
 <!-- PROJECTS Section Ends -->
 

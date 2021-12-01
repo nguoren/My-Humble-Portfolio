@@ -14,6 +14,7 @@
 ![1623305477738-min](https://i.imgur.com/N1yXgfE.jpg) <br>
 <!-- Add your details -->
 I am __Ng Guoren__, an aspiring Data Scientist. <br>
+My current goal is to develop my skills in Python and to complete the 'Data Scientist with Python' track with DataCamp. <br>
 Programming Skills: Python, SQL, PowerBI <br>
 <!-- ABOUT Section Ends -->
 

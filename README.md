@@ -64,6 +64,7 @@ October 2021 - Present <br>
 [*Intermediate Python*](https://github.com/nguoren/Portfolio/blob/main/Certificates/DataCamp%20Cert%20-%20Intermediate%20Python.pdf)<br>
 [*Data Manipulation with pandas*](https://github.com/nguoren/Portfolio/blob/main/Certificates/DataCamp%20Cert%20-%20Data%20Manipulation%20with%20pandas.pdf)<br>
 [*Joining Data with pandas*](https://github.com/nguoren/My-Humble-Portfolio/blob/main/Certificates/DataCamp%20Cert%20-%20Joining%20Data%20with%20pandas.pdf)<br>
+[*Introduction to Data Visualisation with Matplotlib*](https://github.com/nguoren/My-Portfolio/blob/main/Certificates/DataCamp%20Cert%20-%20Introduction%20to%20Data%20Visualisation%20with%20Matplotlib.pdf)<br>
 #### DigitalBCG Academy <br> 
 Business and Data Analytics <br> 
 February 2021 - August 2021 <br> 

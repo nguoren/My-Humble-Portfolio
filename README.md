@@ -86,6 +86,7 @@ August 2010 - August 2013 <br>
 - [DataCamp - Python Project - Google Play Store](https://github.com/nguoren/DataCamp-Google-Play-Store-Python-Project/blob/main/DataCamp%20-%20Google%20Play%20Project.ipynb) <br>
 - [DataCamp - Python Project - Scala Programming Language](https://github.com/nguoren/DataCamp-Scala-Python-Project/blob/main/DataCamp%20-%20Scala.ipynb) <br>
 #### Machine Learning
+- [DigitalBCG Academy - Introduction to Machine Learning - Iris Data](https://github.com/nguoren/BCG-Machine-Learning-Iris-Data/blob/main/DigitalBCG%20Academy%20-%20Machine%20Learning%20-%20K-Nearest%20Neighbour%20(KNN)%20-%20Iris%20Data%20Set.ipynb) <br>
 - [DigitalBCG Academy - Mini Project 3 - Machine Learning: Predicting Churn - 30th July 2021 Version](https://github.com/nguoren/Machine-Learning-Mini-Project/blob/main/Mini_project_3_Ng%20Guoren.ipynb) <br>
 #### PowerBI
 - [DigitalBCG Academy - Mini Project 1 - PowerBI Data Visualisation](https://github.com/nguoren/PowerBI-Mini-Project/blob/main/Group%201_Mini_Project_FINAL.pdf) <br>

@@ -69,6 +69,7 @@ Completed 10 out of 32 courses <br>
 [*Introduction to Data Visualisation with Matplotlib*](https://github.com/nguoren/My-Portfolio/blob/main/Certificates/DataCamp%20Cert%20-%20Introduction%20to%20Data%20Visualisation%20with%20Matplotlib.pdf)<br>
 [*Introduction to Data Visualisation with Seaborn*](https://github.com/nguoren/My-Portfolio/blob/main/Certificates/DataCamp%20Cert%20-%20Introduction%20to%20Data%20Visualisation%20with%20Seaborn.pdf)<br>
 [*Python Data Science Toolbox (Part 1)*](https://github.com/nguoren/My-Portfolio/blob/main/Certificates/DataCamp%20Cert%20-%20Python%20Data%20Science%20Toolbox%20(Part%201).pdf)<br>
+[*Python Data Science Toolbox (Part 2)*](https://github.com/nguoren/My-Portfolio/blob/main/Certificates/DataCamp%20Cert%20-%20Python%20Data%20Science%20Toolbox%20(Part%202).pdf)<br>
 #### DigitalBCG Academy <br> 
 Business and Data Analytics <br> 
 February 2021 - August 2021 <br> 

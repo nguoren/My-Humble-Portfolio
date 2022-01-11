@@ -58,6 +58,8 @@ September 2013 - March 2014: 7 months <br>
 <!-- EDUCATION Section Starts -->
 # __EDUCATION__
 <!-- Add your details -->
+#### Kaggle <br>
+[*Introduction to Machine Learning*](https://github.com/nguoren/My-Portfolio/blob/main/Certificates/kaggle%20-%20Intro%20to%20Machine%20Learning.png)<br>
 #### DataCamp <br> 
 Data Scientist with Python <br> 
 October 2021 - Present <br>

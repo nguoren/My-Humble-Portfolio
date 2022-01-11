@@ -86,20 +86,19 @@ August 2010 - August 2013 <br>
 <!-- PROJECTS Section Starts -->
 # __PROJECTS__
 <!-- Add your details -->
-#### Data Analytics
-- [Personal - Fantasy Premier League](https://github.com/nguoren/Fantasy-Premier-League/blob/main/README.md) <br>
-- [DataCamp - Python Project - Netflix](https://github.com/nguoren/DataCamp-Netflix-Project/blob/main/DataCamp%20-%20Netflix%20Project.ipynb) <br>
-- [DataCamp - Python Project - Google Play Store](https://github.com/nguoren/DataCamp-Google-Play-Store-Python-Project/blob/main/DataCamp%20-%20Google%20Play%20Project.ipynb) <br>
-- [DataCamp - Python Project - Scala Programming Language](https://github.com/nguoren/DataCamp-Scala-Python-Project/blob/main/DataCamp%20-%20Scala.ipynb) <br>
-#### Machine Learning
-- [DigitalBCG Academy - Introduction to Machine Learning - K-Nearest Neighbour (KNN) - Iris Flower Classification](https://github.com/nguoren/BCG-Machine-Learning-Iris-Data/blob/main/DigitalBCG%20Academy%20-%20Machine%20Learning%20-%20K-Nearest%20Neighbour%20(KNN)%20-%20Iris%20Data%20Set.ipynb) <br>
-- [DigitalBCG Academy - Machine Learning - Linear Regression - Automotive Price Prediction](https://github.com/nguoren/BCG-Machine-Learning-Automotive-Price-Prediction/blob/main/DigitalBCG%20Academy%20-%20Machine%20Learning%20-%20Linear%20Regression%20-%20Automotive%20Price%20Prediction.ipynb) <br>
-- [DigitalBCG Academy - Mini Project 3 - Machine Learning: Predicting Churn - 30th July 2021 Version](https://github.com/nguoren/Machine-Learning-Mini-Project/blob/main/Mini_project_3_Ng%20Guoren.ipynb) <br>
-#### PowerBI
-- [DigitalBCG Academy - Mini Project 1 - PowerBI Data Visualisation](https://github.com/nguoren/PowerBI-Mini-Project/blob/main/Group%201_Mini_Project_FINAL.pdf) <br>
-#### Statistic
-- [DigitalBCG Academy - Mini Project 2 - Statistical Analysis using Python](https://github.com/nguoren/Statistical-Analysis-Mini-Project/blob/main/Mini_project_2%20Team%201.ipynb) <br>
+#### Personal
+- [Fantasy Premier League](https://github.com/nguoren/Fantasy-Premier-League/blob/main/README.md) <br>
+#### DataCamp
+- [Data Analytics Python Project - Netflix](https://github.com/nguoren/DataCamp-Netflix-Project/blob/main/DataCamp%20-%20Netflix%20Project.ipynb) <br>
+- [Data Analytics Python Project - Google Play Store](https://github.com/nguoren/DataCamp-Google-Play-Store-Python-Project/blob/main/DataCamp%20-%20Google%20Play%20Project.ipynb) <br>
+- [Data Analytics Python Project - Scala Programming Language](https://github.com/nguoren/DataCamp-Scala-Python-Project/blob/main/DataCamp%20-%20Scala.ipynb) <br>
+#### DigitalBCG Academy
+- [Introduction to Machine Learning - K-Nearest Neighbour (KNN) - Iris Flower Classification](https://github.com/nguoren/BCG-Machine-Learning-Iris-Data/blob/main/DigitalBCG%20Academy%20-%20Machine%20Learning%20-%20K-Nearest%20Neighbour%20(KNN)%20-%20Iris%20Data%20Set.ipynb) <br>
+- [Machine Learning - Linear Regression - Automotive Price Prediction](https://github.com/nguoren/BCG-Machine-Learning-Automotive-Price-Prediction/blob/main/DigitalBCG%20Academy%20-%20Machine%20Learning%20-%20Linear%20Regression%20-%20Automotive%20Price%20Prediction.ipynb) <br>
+- [Mini Project 1 - PowerBI Data Visualisation](https://github.com/nguoren/PowerBI-Mini-Project/blob/main/Group%201_Mini_Project_FINAL.pdf) <br>
+- [Mini Project 2 - Statistical Analysis using Python](https://github.com/nguoren/Statistical-Analysis-Mini-Project/blob/main/Mini_project_2%20Team%201.ipynb) <br>
   1. __*Achievement*__: [BCG RISE TOP 2 Hypothesis Testing Project](https://www.credly.com/badges/ab1a0f88-b4a7-4eea-823c-15f6d48b4f19)
+- [Mini Project 3 - Machine Learning: Predicting Churn - 30th July 2021 Version](https://github.com/nguoren/Machine-Learning-Mini-Project/blob/main/Mini_project_3_Ng%20Guoren.ipynb) <br>
 <!-- PROJECTS Section Ends -->
 
 

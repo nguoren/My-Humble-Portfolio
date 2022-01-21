@@ -92,6 +92,7 @@ August 2010 - August 2013 <br>
 - [Data Analytics Python Project - Netflix](https://github.com/nguoren/DataCamp-Netflix-Project/blob/main/DataCamp%20-%20Netflix%20Project.ipynb) <br>
 - [Data Analytics Python Project - Google Play Store](https://github.com/nguoren/DataCamp-Google-Play-Store-Python-Project/blob/main/DataCamp%20-%20Google%20Play%20Project.ipynb) <br>
 - [Data Analytics Python Project - Scala Programming Language](https://github.com/nguoren/DataCamp-Scala-Python-Project/blob/main/DataCamp%20-%20Scala.ipynb) <br>
+- [Data Analytics Python Project - Nobel Prize Winner](https://github.com/nguoren/Nobel-Prize-Python-Project/blob/main/DataCamp%20-%20Nobel%20Prize%20Winners%20Project%20.ipynb) <br>
 #### DigitalBCG Academy
 - [Introduction to Machine Learning - K-Nearest Neighbour (KNN) - Iris Flower Classification](https://github.com/nguoren/BCG-Machine-Learning-Iris-Data/blob/main/DigitalBCG%20Academy%20-%20Machine%20Learning%20-%20K-Nearest%20Neighbour%20(KNN)%20-%20Iris%20Data%20Set.ipynb) <br>
 - [Machine Learning - Linear Regression - Automotive Price Prediction](https://github.com/nguoren/BCG-Machine-Learning-Automotive-Price-Prediction/blob/main/DigitalBCG%20Academy%20-%20Machine%20Learning%20-%20Linear%20Regression%20-%20Automotive%20Price%20Prediction.ipynb) <br>

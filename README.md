@@ -73,6 +73,7 @@ Completed 11 out of 23 courses <br>
 [*Intermediate Data Visualisation with Seaborn*](https://github.com/nguoren/My-Portfolio/blob/main/Certificates/DataCamp%20Cert%20-%20Intermediate%20Data%20Visualisation%20with%20Seaborn%20(1-6-2022).pdf)<br>
 [*Introduction to Importing Data in Python*](https://github.com/nguoren/My-Portfolio/blob/main/Certificates/DataCamp%20Cert%20-%20Introduction%20to%20Importing%20Data%20in%20Python%20(24-1-2022).pdf)<br>
 [*Intermediate Importing Data in Python*](https://github.com/nguoren/My-Portfolio/blob/main/Certificates/DataCamp%20Cert%20-%20Intermediate%20Importing%20Data%20in%20Python%20(28-1-2022).pdf)<br>
+[*Cleaning Data in Python*](https://github.com/nguoren/My-Portfolio/blob/main/Certificates/DataCamp%20Cert%20-%20Cleaning%20Data%20in%20Python%20(21-2-2022).pdf)<br>
 
 #### DigitalBCG Academy <br> 
 Business and Data Analytics <br> 

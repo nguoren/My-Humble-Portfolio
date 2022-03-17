@@ -61,7 +61,7 @@ September 2013 - March 2014: 7 months <br>
 #### DataCamp <br> 
 Data Scientist with Python <br> 
 October 2021 - Present <br>
-Completed 14 out of 23 courses <br>
+Completed 15 out of 23 courses <br>
 [*Introduction to Python*](https://github.com/nguoren/Portfolio/blob/main/Certificates/DataCamp%20Cert%20-%20Introduction%20to%20Python.pdf)<br>
 [*Intermediate Python*](https://github.com/nguoren/Portfolio/blob/main/Certificates/DataCamp%20Cert%20-%20Intermediate%20Python.pdf)<br>
 [*Data Manipulation with pandas*](https://github.com/nguoren/Portfolio/blob/main/Certificates/DataCamp%20Cert%20-%20Data%20Manipulation%20with%20pandas.pdf)<br>
@@ -76,6 +76,7 @@ Completed 14 out of 23 courses <br>
 [*Cleaning Data in Python*](https://github.com/nguoren/My-Portfolio/blob/main/Certificates/DataCamp%20Cert%20-%20Cleaning%20Data%20in%20Python%20(21-2-2022).pdf)<br>
 [*Working with Dates and Times in Python*](https://github.com/nguoren/My-Portfolio/blob/main/Certificates/DataCamp%20Cert%20-%20Working%20with%20Dates%20and%20Times%20in%20Python%20(9-3-2022).pdf)<br>
 [*Writing Functions in Python*](https://github.com/nguoren/My-Portfolio/blob/main/Certificates/DataCamp%20Cert%20-%20Writing%20Functions%20in%20Python%20(11-3-2022).pdf)<br>
+[*Exploratory Data Analysis in Python*](https://github.com/nguoren/My-Portfolio/blob/main/Certificates/DataCamp%20Cert%20-%20Exploratory%20Data%20Analysis%20in%20Python%20(16-3-2022).pdf)<br>
 
 #### DigitalBCG Academy <br> 
 Business and Data Analytics <br> 

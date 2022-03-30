@@ -79,7 +79,7 @@ Completed 18 out of 23 courses <br>
 [*Exploratory Data Analysis in Python*](https://github.com/nguoren/My-Portfolio/blob/main/Certificates/DataCamp%20Cert%20-%20Exploratory%20Data%20Analysis%20in%20Python%20(16-3-2022).pdf)<br>
 [*Analyzing Police Activity with pandas*](https://github.com/nguoren/My-Portfolio/blob/main/Certificates/DataCamp%20Cert%20-%20Analyzing%20Police%20Activity%20with%20pandas%20(23-3-2022).pdf)<br>
 [*Statistical Thinking in Python (Part 1)*](https://github.com/nguoren/My-Portfolio/blob/main/Certificates/DataCamp%20Cert%20-%20Statistical%20Thinking%20in%20Python%20(Part%201)%20(25-3-2022).pdf)<br>
-[*Statistical Thinking in Python (Part 2)*](https://github.com/nguoren/My-Portfolio/blob/main/Certificates/DataCamp%20Cert%20-%20Statistical%20Thinking%20in%20Python%20(Part%202)%20(30-3-2022).pdf).pdf)<br>
+[*Statistical Thinking in Python (Part 2)*](https://github.com/nguoren/My-Portfolio/blob/main/Certificates/DataCamp%20Cert%20-%20Statistical%20Thinking%20in%20Python%20(Part%202)%20(30-3-2022).pdf)<br>
 
 #### DigitalBCG Academy <br> 
 Business and Data Analytics <br> 

@@ -61,7 +61,7 @@ September 2013 - March 2014: 7 months <br>
 #### DataCamp <br> 
 Data Scientist with Python <br> 
 October 2021 - Present <br>
-Completed 21 out of 23 courses <br>
+Completed 22 out of 23 courses <br>
 [*Introduction to Python*](https://github.com/nguoren/Portfolio/blob/main/Certificates/DataCamp%20Cert%20-%20Introduction%20to%20Python.pdf)<br>
 [*Intermediate Python*](https://github.com/nguoren/Portfolio/blob/main/Certificates/DataCamp%20Cert%20-%20Intermediate%20Python.pdf)<br>
 [*Data Manipulation with pandas*](https://github.com/nguoren/Portfolio/blob/main/Certificates/DataCamp%20Cert%20-%20Data%20Manipulation%20with%20pandas.pdf)<br>
@@ -83,6 +83,7 @@ Completed 21 out of 23 courses <br>
 [*Supervised Learning with scikit-learn*](https://github.com/nguoren/My-Portfolio/blob/main/Certificates/DataCamp%20Cert%20-%20Supervised%20Learning%20with%20scikit-learn%20(4-4-2022).pdf)<br>
 [*Unsupervised Learning in Python*](https://github.com/nguoren/My-Portfolio/blob/main/Certificates/DataCamp%20Cert%20-%20Unsupervised%20Learning%20in%20Python%20(6-4-2022).pdf)<br>
 [*Machine Learning with Tree-Based Models in Python*](https://github.com/nguoren/My-Portfolio/blob/main/Certificates/DataCamp%20Cert%20-%20Machine%20Learning%20with%20Tree-Based%20Models%20in%20Python%20(8-4-2022).pdf)<br>
+[*Case Study: School Budgeting with Machine Learning in Python*](https://github.com/nguoren/My-Portfolio/blob/main/Certificates/DataCamp%20Cert%20-%20Case%20Study%20-%20School%20Budgeting%20with%20Machine%20Learning%20in%20Python%20(10-4-2022).pdf)<br>
 
 #### DigitalBCG Academy <br> 
 Business and Data Analytics <br> 

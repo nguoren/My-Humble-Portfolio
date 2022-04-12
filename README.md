@@ -14,7 +14,7 @@
 ![1623305477738-min](https://i.imgur.com/N1yXgfE.jpg) <br>
 <!-- Add your details -->
 I am __Ng Guoren__, an aspiring Data Scientist. <br>
-My current goal is to develop my skills in Python and to complete the 'Data Scientist with Python' track with DataCamp. <br>
+My current goal is to develop my skills in Python. <br>
 Programming Skills: Python, SQL, PowerBI <br>
 <!-- ABOUT Section Ends -->
 
@@ -60,30 +60,8 @@ September 2013 - March 2014: 7 months <br>
 <!-- Add your details -->
 #### DataCamp <br> 
 Data Scientist with Python <br> 
-October 2021 - Present <br>
-Completed 22 out of 23 courses <br>
-[*Introduction to Python*](https://github.com/nguoren/Portfolio/blob/main/Certificates/DataCamp%20Cert%20-%20Introduction%20to%20Python.pdf)<br>
-[*Intermediate Python*](https://github.com/nguoren/Portfolio/blob/main/Certificates/DataCamp%20Cert%20-%20Intermediate%20Python.pdf)<br>
-[*Data Manipulation with pandas*](https://github.com/nguoren/Portfolio/blob/main/Certificates/DataCamp%20Cert%20-%20Data%20Manipulation%20with%20pandas.pdf)<br>
-[*Joining Data with pandas*](https://github.com/nguoren/My-Humble-Portfolio/blob/main/Certificates/DataCamp%20Cert%20-%20Joining%20Data%20with%20pandas.pdf)<br>
-[*Introduction to Data Visualisation with Matplotlib*](https://github.com/nguoren/My-Portfolio/blob/main/Certificates/DataCamp%20Cert%20-%20Introduction%20to%20Data%20Visualisation%20with%20Matplotlib.pdf)<br>
-[*Introduction to Data Visualisation with Seaborn*](https://github.com/nguoren/My-Portfolio/blob/main/Certificates/DataCamp%20Cert%20-%20Introduction%20to%20Data%20Visualisation%20with%20Seaborn.pdf)<br>
-[*Python Data Science Toolbox (Part 1)*](https://github.com/nguoren/My-Portfolio/blob/main/Certificates/DataCamp%20Cert%20-%20Python%20Data%20Science%20Toolbox%20(Part%201).pdf)<br>
-[*Python Data Science Toolbox (Part 2)*](https://github.com/nguoren/My-Portfolio/blob/main/Certificates/DataCamp%20Cert%20-%20Python%20Data%20Science%20Toolbox%20(Part%202).pdf)<br>
-[*Intermediate Data Visualisation with Seaborn*](https://github.com/nguoren/My-Portfolio/blob/main/Certificates/DataCamp%20Cert%20-%20Intermediate%20Data%20Visualisation%20with%20Seaborn%20(1-6-2022).pdf)<br>
-[*Introduction to Importing Data in Python*](https://github.com/nguoren/My-Portfolio/blob/main/Certificates/DataCamp%20Cert%20-%20Introduction%20to%20Importing%20Data%20in%20Python%20(24-1-2022).pdf)<br>
-[*Intermediate Importing Data in Python*](https://github.com/nguoren/My-Portfolio/blob/main/Certificates/DataCamp%20Cert%20-%20Intermediate%20Importing%20Data%20in%20Python%20(28-1-2022).pdf)<br>
-[*Cleaning Data in Python*](https://github.com/nguoren/My-Portfolio/blob/main/Certificates/DataCamp%20Cert%20-%20Cleaning%20Data%20in%20Python%20(21-2-2022).pdf)<br>
-[*Working with Dates and Times in Python*](https://github.com/nguoren/My-Portfolio/blob/main/Certificates/DataCamp%20Cert%20-%20Working%20with%20Dates%20and%20Times%20in%20Python%20(9-3-2022).pdf)<br>
-[*Writing Functions in Python*](https://github.com/nguoren/My-Portfolio/blob/main/Certificates/DataCamp%20Cert%20-%20Writing%20Functions%20in%20Python%20(11-3-2022).pdf)<br>
-[*Exploratory Data Analysis in Python*](https://github.com/nguoren/My-Portfolio/blob/main/Certificates/DataCamp%20Cert%20-%20Exploratory%20Data%20Analysis%20in%20Python%20(16-3-2022).pdf)<br>
-[*Analyzing Police Activity with pandas*](https://github.com/nguoren/My-Portfolio/blob/main/Certificates/DataCamp%20Cert%20-%20Analyzing%20Police%20Activity%20with%20pandas%20(23-3-2022).pdf)<br>
-[*Statistical Thinking in Python (Part 1)*](https://github.com/nguoren/My-Portfolio/blob/main/Certificates/DataCamp%20Cert%20-%20Statistical%20Thinking%20in%20Python%20(Part%201)%20(25-3-2022).pdf)<br>
-[*Statistical Thinking in Python (Part 2)*](https://github.com/nguoren/My-Portfolio/blob/main/Certificates/DataCamp%20Cert%20-%20Statistical%20Thinking%20in%20Python%20(Part%202)%20(30-3-2022).pdf)<br>
-[*Supervised Learning with scikit-learn*](https://github.com/nguoren/My-Portfolio/blob/main/Certificates/DataCamp%20Cert%20-%20Supervised%20Learning%20with%20scikit-learn%20(4-4-2022).pdf)<br>
-[*Unsupervised Learning in Python*](https://github.com/nguoren/My-Portfolio/blob/main/Certificates/DataCamp%20Cert%20-%20Unsupervised%20Learning%20in%20Python%20(6-4-2022).pdf)<br>
-[*Machine Learning with Tree-Based Models in Python*](https://github.com/nguoren/My-Portfolio/blob/main/Certificates/DataCamp%20Cert%20-%20Machine%20Learning%20with%20Tree-Based%20Models%20in%20Python%20(8-4-2022).pdf)<br>
-[*Case Study: School Budgeting with Machine Learning in Python*](https://github.com/nguoren/My-Portfolio/blob/main/Certificates/DataCamp%20Cert%20-%20Case%20Study%20-%20School%20Budgeting%20with%20Machine%20Learning%20in%20Python%20(10-4-2022).pdf)<br>
+October 2021 - April 2022 <br>
+[*Statement of Accomplishment*](https://github.com/nguoren/My-Portfolio/blob/main/Certificates/DataCamp%20-%20Data%20Scientist%20with%20Python%20Track%20(11-4-2022).pdf)<br>
 
 #### DigitalBCG Academy <br> 
 Business and Data Analytics <br> 

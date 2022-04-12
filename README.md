@@ -16,6 +16,7 @@
 I am __Ng Guoren__, an aspiring Data Scientist. <br>
 My current goal is to develop my skills in Python. <br>
 Programming Skills: Python, SQL, PowerBI <br>
+[DataCamp Profile](https://www.datacamp.com/profile/ngguoren)
 <!-- ABOUT Section Ends -->
 
 

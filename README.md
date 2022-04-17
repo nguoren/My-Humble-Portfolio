@@ -62,9 +62,9 @@ September 2013 - March 2014: 7 months <br>
 #### DataCamp <br> 
 SQL Fundamentals <br> 
 April 2022 - Present <br>
-Completed 2 out of 5 courses
-[*Introduction to SQL*](https://github.com/nguoren/My-Portfolio/blob/main/Certificates/DataCamp%20Cert%20-%20Introduction%20to%20SQL%20%20(12-4-2022).pdf)<br>
-[*Joining Data in SQL*](https://github.com/nguoren/My-Portfolio/blob/main/Certificates/DataCamp%20Cert%20-%20Joining%20Data%20in%20SQL%20%20(17-4-2022).pdf)<br>
+Completed 2 out of 5 courses <br>
+[*Introduction to SQL*](https://github.com/nguoren/My-Portfolio/blob/main/Certificates/DataCamp%20Cert%20-%20Introduction%20to%20SQL%20%20(12-4-2022).pdf) <br>
+[*Joining Data in SQL*](https://github.com/nguoren/My-Portfolio/blob/main/Certificates/DataCamp%20Cert%20-%20Joining%20Data%20in%20SQL%20%20(17-4-2022).pdf) <br><br>
 Data Scientist with Python <br> 
 October 2021 - April 2022 <br>
 [*Statement of Accomplishment*](https://github.com/nguoren/My-Portfolio/blob/main/Certificates/DataCamp%20-%20Data%20Scientist%20with%20Python%20Track%20(11-4-2022).pdf)<br>

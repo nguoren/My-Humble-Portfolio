@@ -107,6 +107,7 @@ August 2010 - August 2013 <br>
 <!-- Add your details -->
 #### Kaggle <br>
 [*Introduction to Machine Learning*](https://github.com/nguoren/My-Portfolio/blob/main/Certificates/kaggle%20-%20Intro%20to%20Machine%20Learning.png)<br>
+[*Introduction to Deep Learning*](https://github.com/nguoren/My-Portfolio/blob/main/Certificates/Ng%20Guoren%20-%20Intro%20to%20Deep%20Learning.png)<br>
 #### __Linkedin Learning__  <br>
 [Machine Learning with ScikitLearn](https://github.com/nguoren/Portfolio/blob/main/Certificates/CertificateOfCompletion_Machine%20Learning%20with%20ScikitLearn.pdf)  <br>
 [Artificial Intelligence Foundations: Machine Learning](https://github.com/nguoren/Portfolio/blob/main/Certificates/CertificateOfCompletion_Artificial%20Intelligence%20Foundations%20Machine%20Learning.pdf)  <br>

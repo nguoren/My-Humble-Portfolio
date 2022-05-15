@@ -23,6 +23,10 @@ Programming Skills: Python, SQL, PowerBI <br>
 <!-- EXPERIENCE Section Starts -->
 # __WORK EXPERIENCE__
 <!-- Add your details -->
+#### __AI Singapore__
+Apprentice <br>
+Artificial Intelligence Apprenticeship Programme
+April 2022 - Present <br> 
 #### __Self Employed__
 Copywriter <br>
 April 2017 - August 2021: 4 years 5 months <br> 
@@ -35,7 +39,7 @@ October 2019 - December 2019: 3 months <br>
 #### __Espirit Building & Engineering P/L__
 Assistant Manager <br>
 January 2017 - March 2017: 3 months <br>
-Project Coordinator<br>
+Project Coordinator <br>
 July 2015 - December 2016: 1 year 6 months <br>
 #### __Self Employed__
 3D House Modeler <br>

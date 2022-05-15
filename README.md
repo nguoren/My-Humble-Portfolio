@@ -13,8 +13,8 @@
 <!-- Add link to your picture -->
 ![1623305477738-min](https://i.imgur.com/N1yXgfE.jpg) <br>
 <!-- Add your details -->
-I am __Ng Guoren__, an aspiring Data Scientist. <br>
-My current goal is to develop my skills in Python. <br>
+I am __Ng Guoren__, an Apprentice with AI Singapore under the Artificial Intelligence Apprenticeship Programme (AIAP). <br>
+My current goal is to develop my skills in Machine Learning and Python. <br>
 Programming Skills: Python, SQL, PowerBI <br>
 [DataCamp Profile](https://www.datacamp.com/profile/ngguoren)
 <!-- ABOUT Section Ends -->

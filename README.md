@@ -16,7 +16,7 @@
 I am __Ng Guoren__, an Apprentice with AI Singapore under the Artificial Intelligence Apprenticeship Programme (AIAP). <br>
 My current goal is to develop my skills in Machine Learning and Python. <br>
 Programming Skills: Python, SQL, PowerBI <br>
-[DataCamp Profile](https://www.datacamp.com/profile/ngguoren)
+[DataCamp Profile](https://www.datacamp.com/profile/ngguoren) <br>
 [kaggle Profile](https://www.kaggle.com/nguoren/account)
 <!-- ABOUT Section Ends -->
 

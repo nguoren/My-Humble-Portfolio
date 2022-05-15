@@ -27,6 +27,7 @@ Programming Skills: Python, SQL, PowerBI <br>
 #### __AI Singapore__
 Apprentice <br>
 Artificial Intelligence Apprenticeship Programme <br>
+Batch #10 <br>
 April 2022 - Present <br> 
 #### __Self Employed__
 Copywriter <br>

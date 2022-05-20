@@ -111,6 +111,8 @@ August 2010 - August 2013 <br>
 <!-- CERTIFICATION Section Starts -->
 # __CERTIFICATION__
 <!-- Add your details -->
+#### DataCamp <br>
+[*Introduction to Git*](https://github.com/nguoren/My-Portfolio/blob/main/Certificates/DataCamp%20-%20Introduction%20to%20Git%20-%2020May2022.pdf)<br>
 #### Kaggle <br>
 [*Introduction to Machine Learning*](https://github.com/nguoren/My-Portfolio/blob/main/Certificates/kaggle%20-%20Intro%20to%20Machine%20Learning.png)<br>
 [*Introduction to Deep Learning*](https://github.com/nguoren/My-Portfolio/blob/main/Certificates/Ng%20Guoren%20-%20Intro%20to%20Deep%20Learning.png)<br>

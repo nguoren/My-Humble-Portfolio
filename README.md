@@ -32,12 +32,6 @@ April 2022 - Present <br>
 #### __Self Employed__
 Copywriter <br>
 April 2017 - August 2021: 4 years 5 months <br> 
-#### __Finance UK Ltd__
-PR Executive <br>
-July 2019 - February 2020: 8 months <br> 
-#### __Hairy Crab At Home__
-Operations Manager <br>
-October 2019 - December 2019: 3 months <br>
 #### __Espirit Building & Engineering P/L__
 Assistant Manager <br>
 January 2017 - March 2017: 3 months <br>
